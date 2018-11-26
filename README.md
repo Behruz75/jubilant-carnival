@@ -1,1 +1,2 @@
-# jubilant-carnival
+# Jubilant Carnival
+# Prototype
