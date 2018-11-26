@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\bin\Debug\Jubliant Carnaval.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\obj\Debug\Jubliant Carnaval.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\bin\Debug\Jubliant Carnaval.exe
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\bin\Debug\Jubliant Carnaval.pdb
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\obj\Debug\Jubliant Carnaval.exe
+c:\users\user\documents\visual studio 2012\Projects\Jubliant Carnaval\Jubliant Carnaval\obj\Debug\Jubliant Carnaval.pdb
